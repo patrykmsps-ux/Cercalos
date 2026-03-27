@@ -1,0 +1,1 @@
+PHPSESSID=placeholder; AWSALB=placeholder; AWSALBCORS=placeholder

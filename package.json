@@ -1,0 +1,16 @@
+{
+  "name": "cercal-painel-api",
+  "version": "1.0.0",
+  "description": "API servidor para o Painel de Ocorrências Cercal",
+  "main": "api-server.js",
+  "scripts": {
+    "start": "node api-server.js",
+    "dev": "node api-server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
